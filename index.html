@@ -715,6 +715,20 @@
 
           </form>
 
+          <script>
+            const form = document.querySelector(".contact-form");
+            const button = form.querySelector(".btn-primary");
+          
+            form.onsubmit = function (event) {
+              event.preventDefault(); // Prevent the form from submitting normally
+          
+              // Display the message prompt after 1 second
+              setTimeout(function () {
+                alert("Your message has been sent. We will review it shortly. Thanks!");
+              }, 100);
+            };
+          </script>
+
           <ul class="contact-list">
 
             <li class="contact-item">
