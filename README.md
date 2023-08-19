@@ -1,6 +1,8 @@
 # PSABE-PPG_SPAMAST
 Course Landing Page For PSABE-PPG_SPAMAST Buhangin Chapter
 
+WELCOME
+
 Tech/s used: HTML, CSS, and JavaScript.
 
 **By Fan Karwanta** (with help of Julie Jondenero VP of PSABE-PPG - SPAMAST Buhangin Chapter)
